@@ -1,7 +1,8 @@
+---
 layout: page
 title: Privacy Policy
 include_in_header: false
-
+---
 **Last updated:** November 19, 2025
 
 # ShopList Privacy Policy
