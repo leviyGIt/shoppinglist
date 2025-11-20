@@ -1,60 +1,75 @@
----
 layout: page
 title: Privacy Policy
 include_in_header: false
+
+**Last updated:** November 19, 2025
+
+# ShopList Privacy Policy
+ShopList (“we”, “our”, or “us”) helps households plan smarter grocery runs by keeping collaborative lists, reminders, and pantry insights in sync across devices. This Privacy Policy explains what information we collect, how we use it, and the choices you have when you use the ShopList mobile application and companion landing page (collectively, the “Services”).
+
+If you ever have questions about this policy, email us at [support@shoplist.app](mailto:support@shoplist.app).
+
 ---
 
-**Last updated**  
-August 1 2019
+## 1. Information we collect
+We designed ShopList so you can get value without creating an account. To power optional features, we may collect:
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+### 1.1 Information you provide
+- **List content.** Items, notes, categories, and reminders you manually add to your grocery lists.
+- **Photos & barcodes (optional).** When you attach a photo or scan a barcode to add an item, we access your device camera only for that action. Images remain on your device unless you choose to sync them.
+- **Shared contacts (optional).** If you grant Contacts access, we read the selected contact names/email addresses so you can invite them to collaborate. We do not upload your full address book.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+### 1.2 Information collected automatically
+- **Device data.** Basic diagnostic information (device model, OS version, app version) to troubleshoot crashes and ensure compatibility.
+- **Usage analytics.** Anonymous event data (e.g., feature usage, screen flow) that helps us understand which features are helpful and where to improve the experience. These analytics never include list contents.
 
-<br>
+---
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## 2. How we use information
+- **Provide core functionality.** Sync lists, reminders, and favorites across your devices.
+- **Enable optional features.** Camera access lets you capture photos/barcodes; contacts access powers list sharing.
+- **Improve ShopList.** Analytics and crash diagnostics help us prioritize roadmap work and fix bugs faster.
+- **Communicate with you.** We may email support responses or important service updates if you contact us first.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+We never sell your personal information or list data.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+---
 
-<br>
+## 3. Sharing and third parties
+We dont use any third party servicest
+---
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## 4. Data retention & security
+- List data stays on your device.
+- Photo and barcode attachments remain on your device cache unless you explicitly share or back them up.
+- Contact info used for invitations is stored only on your device as long as necessary to send or maintain that shared list connection.
+- You can delete lists at any time, which removes them from our sync service within 24 hours.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+---
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+## 5. Your choices
+- **Permissions.** You can revoke camera or contacts access at any time in iOS Settings → Privacy.
+- **Data deletion.** Delete lists or uninstall the app to remove locally stored data. Email [support@shoplist.app](mailto:support@shoplist.app) for additional deletion requests.
+- **Opt-out of analytics.** Toggle “Share anonymous analytics” in Settings to stop sending usage diagnostics.
 
-<br>
+---
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## 6. Children’s privacy
+ShopList is intended for users 13+. We do not knowingly collect information from children under 13. If you believe a child has provided us data, contact us and we’ll delete it promptly.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+---
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+## 7. International data transfers
+Depending on your location, data may be processed on servers located outside your country. We rely on standard contractual clauses and industry security practices to protect your information.
 
-<br>
+---
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## 8. Updates to this policy
+We may update this policy as we add features or comply with new regulations. We’ll update the “Last updated” date above and may notify you in-app for significant changes.
 
-<br>
+---
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## 9. Contact us
+ShopList Team  
+Email: [support@shoplist.app](mailto:support@shoplist.app)  
+Website: [https://shoplist.app](https://shoplist.app)
